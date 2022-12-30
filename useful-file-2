@@ -1,2 +1,6 @@
 def main():
 	print("halo")
+
+int main(){
+	return 0;
+}
